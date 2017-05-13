@@ -1,0 +1,15 @@
+//
+//  config.pch
+//  Assignment
+//
+//  Created by Milan Mia on 5/13/17.
+//  Copyright © 2017 Milan Mia. All rights reserved.
+//
+
+#ifndef config_h
+#define config_h
+
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+#define FILE_URL @"http://pastebin.com/raw/wgkJgazE"
+
+#endif /* config_h */
